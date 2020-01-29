@@ -7,6 +7,14 @@ public class UserService {
 
     private String someString = "xx";
 
+    public String getSomeString() {
+        return someString;
+    }
+
+    public void setSomeString(String someString) {
+        this.someString = someString;
+    }
+
     public UserService(String someString) {
         this.someString = someString;
     }
