@@ -7,6 +7,9 @@ public class AccountService {
 
     private String someString = "xx";
 
+    public AccountService(String someString) {
+        this.someString = someString;
+    }
 
     public String calledByMonoImpl(String param) {
         return someString + param;
