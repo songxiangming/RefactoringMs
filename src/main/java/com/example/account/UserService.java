@@ -22,4 +22,9 @@ public class UserService {
     public String calledByMonoImpl(String param) {
         return someString + param;
     }
+
+    public  void foo(){
+
+    }
+
 }
