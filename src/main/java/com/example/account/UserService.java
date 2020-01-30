@@ -31,6 +31,11 @@ public class UserService {
 
     }
 
+    public  void fooA(){
+
+    }
+
+
     public  void fooC(){
 
     }
