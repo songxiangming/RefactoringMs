@@ -25,16 +25,13 @@ public class MasterServiceRename {
         return someString + param;
     }
 
-    public  void foo(){
+    public void foo() {
 
     }
 
-    public void bar (){
+    public void bar() {
 
     }
-
-
-
 
 
     @Override
