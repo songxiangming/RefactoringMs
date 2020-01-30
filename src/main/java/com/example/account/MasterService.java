@@ -33,17 +33,7 @@ public class MasterService {
 
     }
 
-    public  void fooA(){
 
-    }
-
-    public  void fooB(){
-
-    }
-
-    public  void fooC(){
-
-    }
 
 
     @Override
@@ -58,4 +48,5 @@ public class MasterService {
     public int hashCode() {
         return Objects.hash(someString);
     }
+
 }
