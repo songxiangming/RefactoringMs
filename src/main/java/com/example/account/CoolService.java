@@ -43,6 +43,10 @@ public class CoolService {
 
     }
 
-
-
+    @Override
+    public String toString() {
+        return "CoolService{" +
+                "someString='" + someString + '\'' +
+                '}';
+    }
 }
