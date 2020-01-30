@@ -27,4 +27,8 @@ public class UserService {
 
     }
 
+    public void bar (){
+
+    }
+
 }
