@@ -2,6 +2,8 @@ package com.example.account;
 
 import org.springframework.stereotype.Service;
 
+import java.util.Objects;
+
 @Service
 public class CoolService {
 
@@ -48,5 +50,18 @@ public class CoolService {
         return "CoolService{" +
                 "someString='" + someString + '\'' +
                 '}';
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        CoolService that = (CoolService) o;
+        return Objects.equals(someString, that.someString);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(someString);
     }
 }
