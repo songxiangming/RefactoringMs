@@ -5,7 +5,7 @@ import org.springframework.stereotype.Service;
 import java.util.Objects;
 
 @Service
-public class MasterService {
+public class MasterServiceRename {
 
     private String someString = "xx";
 
@@ -17,7 +17,7 @@ public class MasterService {
         this.someString = someString;
     }
 
-    public MasterService(String someString) {
+    public MasterServiceRename(String someString) {
         this.someString = someString;
     }
 
@@ -33,13 +33,16 @@ public class MasterService {
 
     }
 
+
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
-        MasterService that = (MasterService) o;
+        MasterServiceRename that = (MasterServiceRename) o;
         return Objects.equals(someString, that.someString);
     }
+
+    public void stage(){}
 
     @Override
     public int hashCode() {
