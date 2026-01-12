@@ -1,0 +1,127 @@
+<mxfile host="app.diagrams.net" modified="2020-10-13T11:55:10.152Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="K8q992jcOKs9Heq3KXAv" version="13.7.9" type="github">
+  <diagram id="KbE9-4ZQxdQ7kDwR7Z7B" name="Page-1">
+    <mxGraphModel dx="644" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zoo_TMx6Q-awDjl9SJpv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=12;" edge="1" parent="1" target="zoo_TMx6Q-awDjl9SJpv-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="470" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zoo_TMx6Q-awDjl9SJpv-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=12;" edge="1" parent="1" target="zoo_TMx6Q-awDjl9SJpv-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="440" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zoo_TMx6Q-awDjl9SJpv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=12;" edge="1" parent="1" target="zoo_TMx6Q-awDjl9SJpv-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="470" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zoo_TMx6Q-awDjl9SJpv-7" value="dev" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.user;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="310" y="440" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zoo_TMx6Q-awDjl9SJpv-8" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.java;gradientColor=#DFDEDE;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="270" y="350" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zoo_TMx6Q-awDjl9SJpv-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/file-set-volume-1/512/Artboard_1-128.png;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="382" y="360" width="57" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="zoo_TMx6Q-awDjl9SJpv-10" value="" style="shape=datastore;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="510" y="370" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zoo_TMx6Q-awDjl9SJpv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontFamily=Verdana;fontSize=12;" edge="1" parent="1" source="zoo_TMx6Q-awDjl9SJpv-15" target="zoo_TMx6Q-awDjl9SJpv-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zoo_TMx6Q-awDjl9SJpv-19" value="parse class/annotation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Verdana;fontSize=12;" vertex="1" connectable="0" parent="zoo_TMx6Q-awDjl9SJpv-16">
+          <mxGeometry x="0.0712" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zoo_TMx6Q-awDjl9SJpv-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=12;" edge="1" parent="1" source="zoo_TMx6Q-awDjl9SJpv-15" target="zoo_TMx6Q-awDjl9SJpv-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zoo_TMx6Q-awDjl9SJpv-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=12;" edge="1" parent="1" source="zoo_TMx6Q-awDjl9SJpv-15" target="zoo_TMx6Q-awDjl9SJpv-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zoo_TMx6Q-awDjl9SJpv-20" value="read metadata in db" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Verdana;fontSize=12;" vertex="1" connectable="0" parent="zoo_TMx6Q-awDjl9SJpv-18">
+          <mxGeometry x="-0.1342" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zoo_TMx6Q-awDjl9SJpv-22" value="metatdata" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=12;" edge="1" parent="1" source="zoo_TMx6Q-awDjl9SJpv-15" target="zoo_TMx6Q-awDjl9SJpv-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zoo_TMx6Q-awDjl9SJpv-15" value="Collector" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="365" y="240" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zoo_TMx6Q-awDjl9SJpv-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=12;" edge="1" parent="1" source="zoo_TMx6Q-awDjl9SJpv-21" target="zoo_TMx6Q-awDjl9SJpv-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zoo_TMx6Q-awDjl9SJpv-28" value="scheme gen" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Verdana;fontSize=12;" vertex="1" connectable="0" parent="zoo_TMx6Q-awDjl9SJpv-27">
+          <mxGeometry x="-0.1949" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zoo_TMx6Q-awDjl9SJpv-21" value="sf runtime" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="610" y="240" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zoo_TMx6Q-awDjl9SJpv-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;fontFamily=Verdana;fontSize=12;" edge="1" parent="1" source="zoo_TMx6Q-awDjl9SJpv-31" target="zoo_TMx6Q-awDjl9SJpv-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zoo_TMx6Q-awDjl9SJpv-33" value="b1. load ui&amp;nbsp; metadata" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Verdana;fontSize=12;" vertex="1" connectable="0" parent="zoo_TMx6Q-awDjl9SJpv-32">
+          <mxGeometry x="-0.2891" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zoo_TMx6Q-awDjl9SJpv-35" value="b2.&amp;nbsp;render page" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;fontFamily=Verdana;fontSize=12;" edge="1" parent="1" source="zoo_TMx6Q-awDjl9SJpv-31" target="zoo_TMx6Q-awDjl9SJpv-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zoo_TMx6Q-awDjl9SJpv-31" value="client" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/logotypes/32/chrome-128.png;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="630" y="56" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zoo_TMx6Q-awDjl9SJpv-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.433;entryY=-0.098;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;fontFamily=Verdana;fontSize=12;" edge="1" parent="1" source="zoo_TMx6Q-awDjl9SJpv-34" target="zoo_TMx6Q-awDjl9SJpv-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zoo_TMx6Q-awDjl9SJpv-38" value="send request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Verdana;fontSize=12;" vertex="1" connectable="0" parent="zoo_TMx6Q-awDjl9SJpv-37">
+          <mxGeometry x="-0.0835" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zoo_TMx6Q-awDjl9SJpv-34" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.web_browser;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="831" y="63.25" width="50" height="35.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zoo_TMx6Q-awDjl9SJpv-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;fontFamily=Verdana;fontSize=12;" edge="1" parent="1" source="zoo_TMx6Q-awDjl9SJpv-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="865" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zoo_TMx6Q-awDjl9SJpv-36" value="sf runtime&lt;br&gt;add permission&lt;br&gt;convert to db query" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=12;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="799.6" y="240" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zoo_TMx6Q-awDjl9SJpv-41" value="" style="group;strokeColor=#000000;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="790" y="390" width="159.2" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zoo_TMx6Q-awDjl9SJpv-39" value="" style="group;strokeColor=#000000;" vertex="1" connectable="0" parent="zoo_TMx6Q-awDjl9SJpv-41">
+          <mxGeometry width="159.2" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zoo_TMx6Q-awDjl9SJpv-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/mysql-128.png;fontFamily=Verdana;fontSize=12;" vertex="1" parent="zoo_TMx6Q-awDjl9SJpv-39">
+          <mxGeometry width="67.99999999999997" height="67.99999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="zoo_TMx6Q-awDjl9SJpv-25" value="Mongo" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.mongodb;fontFamily=Verdana;fontSize=12;" vertex="1" parent="zoo_TMx6Q-awDjl9SJpv-39">
+          <mxGeometry x="117.99999999999996" width="41.19999999999999" height="66.11764705882354" as="geometry" />
+        </mxCell>
+        <mxCell id="zoo_TMx6Q-awDjl9SJpv-40" value="DB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontFamily=Verdana;strokeColor=#000000;" vertex="1" parent="zoo_TMx6Q-awDjl9SJpv-41">
+          <mxGeometry x="62.99999999999998" y="23.529411764705884" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zoo_TMx6Q-awDjl9SJpv-43" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fontFamily=Verdana;fontSize=12;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="610" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="zoo_TMx6Q-awDjl9SJpv-45" value="sdfsdf" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="660" y="620" width="130" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
